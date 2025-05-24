@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe-telegram-bot",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe o‘yiniga Telegram orqali kirish uchun oddiy bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
